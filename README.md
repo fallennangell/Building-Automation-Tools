@@ -6,7 +6,11 @@ As cybersecurity Specialist, I need to use multiple scripting languages to build
 So I created.
 
 • Script to automatically update the system
+
 • Email Spoofing Detector
+
 • Mini Nmap
+
 • Password Generator
+
 • Detector of intrusion which sends email as an alert
